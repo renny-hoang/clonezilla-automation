@@ -33,6 +33,8 @@ After burning the ISO to a Blu-ray, booting up a machine using the CD will non-i
 
 ## Approach 2: Clonezilla-based ISO (interactive install)
 
+### (The creation of the ISO is noninteractive, the ISO itself contains an interactive Clonezilla environment)
+
 ### Artifacts:
 
 Produces a bootable Clonezilla ISO that can interactively image a disk with a provided Landslide image.
