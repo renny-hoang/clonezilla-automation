@@ -7,7 +7,7 @@
 Produces a bootable Clonezilla ISO that will non-interactively image the first disk detected by Clonezilla with a provided Landslide image. To manually choose which disk will be targeted, edit the ```TARGET_DISK``` variable inside of the script.
 
 
-### Preconditions:
+### Prerequisites:
 1. Access to```create-dd-iso.sh``` with execute permissions
 2. Access to root permissions
 3. Access to the ```geniso``` and ```wget``` commands
@@ -34,7 +34,7 @@ After burning the ISO to a Blu-ray, booting up a machine using the CD will non-i
 
 Produces a bootable Clonezilla ISO that can interactively image a disk with a provided Landslide image.
 
-### Preconditions:
+### Prerequisites:
 1. Access to```create-clonezilla-iso.sh``` with execute permissions
 2. Access to root permissions
 3. Access to a working QEMU/KVM setup
