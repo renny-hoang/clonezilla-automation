@@ -61,5 +61,6 @@ After burning the ISO to a Blu-ray, follow existing steps to interactively image
 <img width="3839" height="2268" alt="image" src="https://github.com/user-attachments/assets/d7ac3833-cb27-4c1c-aa52-5a004107a7ee" />
 <img width="3835" height="2130" alt="image" src="https://github.com/user-attachments/assets/8f17f649-e3c7-438d-aef6-0a9c0511cf00" />
 <img width="3839" height="1781" alt="image" src="https://github.com/user-attachments/assets/a3875f5e-4d8a-42fc-91a8-cdd0f1190cb1" />
+<img width="3105" height="994" alt="image" src="https://github.com/user-attachments/assets/b2455fa7-4990-4303-8eec-799b0603e280" />
 
 
