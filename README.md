@@ -14,7 +14,7 @@ Produces a bootable Clonezilla ISO that will non-interactively image the first d
 4. Landslide image (save99) (```.img``` file) in CWD
 
 ### Execution:
-To run the automation, run ```sudo ./create-dd-iso.sh <clonezilla url> <image file name>```. Running the script will:
+To run the automation, run ```sudo ./create-dd-iso.sh <clonezilla url> <image file name>```. Running the script will (noninteractively):
 
 - Download the Clonezilla ISO
 - Extract the Clonezilla ISO
@@ -42,7 +42,7 @@ Produces a bootable Clonezilla ISO that can interactively image a disk with a pr
 5. Landslide qcow2 (save99) (```.qcow2``` file) in CWD
 
 ### Execution:
-To run the automation, run ```sudo ./create-clonezilla-iso.sh <clonezilla url> <qcow2 file name>```. Running the script will:
+To run the automation, run ```sudo ./create-clonezilla-iso.sh <clonezilla url> <qcow2 file name>```. Running the script will (noninteractively):
 
 - Download the Clonezilla ISO
 - Extract the Clonezilla ISO
