@@ -53,7 +53,7 @@ To run the automation, run ```sudo ./create-clonezilla-iso.sh <clonezilla url> <
 - Copy Landslide image to Clonezilla ISO
 - Repackage the ISO with Landslide image
 
-After burning the ISO to a Blu-ray, follow these steps to image Landslide to your disk:
+After burning the ISO to a Blu-ray, follow existing steps to interactively image Landslide onto an existing disk.
 
 ### Screenshots:
 <img width="3206" height="894" alt="image" src="https://github.com/user-attachments/assets/a7807544-8446-4af7-ba4c-cb6721ee883d" />
