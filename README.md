@@ -25,6 +25,9 @@ To run the automation, run ```sudo ./create-dd-iso.sh <clonezilla url> <image fi
 After burning the ISO to a Blu-ray, booting up a machine using the CD will non-interactively image the first disk detected by Clonezilla.
 
 ### Screenshots:
+<img width="3206" height="894" alt="image" src="https://github.com/user-attachments/assets/a7807544-8446-4af7-ba4c-cb6721ee883d" />
+<img width="1476" height="1636" alt="image" src="https://github.com/user-attachments/assets/d6552939-8f92-4dbc-b0ad-80b32ccf69fb" />
+<img width="3839" height="2268" alt="image" src="https://github.com/user-attachments/assets/d7ac3833-cb27-4c1c-aa52-5a004107a7ee" />
 
 
 
